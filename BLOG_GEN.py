@@ -24,4 +24,5 @@ while keep_writing:
         paragraph_topic= input("What should this paragraph talk about? ")
         print(generate_blog(paragraph_topic))
     else:
+
         keep_writing= False
