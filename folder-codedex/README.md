@@ -1,4 +1,4 @@
-📝 Blog Generation
+**📝 Blog Generation**
 
 This project is a simple command-line blog/paragraph generator built using Python and the OpenAI API. It allows users to generate short paragraphs on any topic by providing a prompt in the terminal.
 
