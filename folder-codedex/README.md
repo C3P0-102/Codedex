@@ -2,7 +2,9 @@
 
 This project is a simple command-line blog/paragraph generator built using Python and the OpenAI API. It allows users to generate short paragraphs on any topic by providing a prompt in the terminal.
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=311311393010400413" align="center" height="281" width="236" frameborder="0" scrolling="no" ></iframe>
+<p align="center">
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=311311393010400413" height="281" width="236" frameborder="0" scrolling="no" ></iframe>
+</p>
 
 🚀 Features
 
